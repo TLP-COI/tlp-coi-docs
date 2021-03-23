@@ -1,6 +1,6 @@
 # Technical Language Processing Community of Interest
 
-Governance, contribution guidance, and project-planning documentation for the TLP-CoI
+Governance, contribution guidance, and project-planning documentation for the TLP Community of Interest.
 
 For an extended list, see [`awesome-tlp`] `TODO`
 

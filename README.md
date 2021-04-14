@@ -2,7 +2,7 @@
 
 Governance, contribution guidance, and project-planning documentation for the TLP Community of Interest.
 
-For an extended list, see [`awesome-tlp`] `TODO`
+For an extended list, see [`awesome-tlp`](https://github.com/TLP-COI/awesome-tlp)
 
 ## What is TLP
 
